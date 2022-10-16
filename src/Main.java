@@ -3,7 +3,8 @@ public class Main {
         task1();
         task2();
         task3();
-        }
+
+    }
 
     private static void task1() {
     {
